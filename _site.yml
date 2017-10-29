@@ -1,0 +1,17 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Experience"
+      href: experience.html
+    - text: "Education"
+      href: education.html
+    - icon: fa-linkedin-square
+      href: https://www.linkedin.com/in/kathrynaddabbo/
+    - icon: fa-envelope fa-lg
+      href: mailto:<kma2162@columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/kaddabbo
+output:
+  html_document
