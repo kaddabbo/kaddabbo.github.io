@@ -8,9 +8,7 @@ title: "Kathryn Addabbo"
 
 ####Master of Science, Biostatistics
 
-&nbsp;
-
-<img src="images/Capture_1.jpg" style="width:25%">
+<img src="images/Capture_1.jpg" style="width:80%">
 
 &nbsp;
 
