@@ -10,7 +10,7 @@ title: "Kathryn Addabbo"
 
 &nbsp;
 
-<img src="images/Capture_1.jpg" style="width:75%">
+<img src="images/Capture_1.jpg" style="width:25%">
 
 &nbsp;
 
