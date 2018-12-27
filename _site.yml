@@ -15,4 +15,4 @@ navbar:
       href: https://github.com/kaddabbo
 output:
   html_document:
-    theme: slate
+    theme: flatly
