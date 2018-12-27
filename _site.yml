@@ -10,8 +10,9 @@ navbar:
     - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/kathrynaddabbo/
     - icon: fa-envelope fa-lg
-      href: mailto:<kma2162@columbia.edu>
+      href: mailto:<kaddabbo@gmail.com>
     - icon: fa-github fa-lg
       href: https://github.com/kaddabbo
 output:
-  html_document
+  html_document:
+    theme: slate

@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -88,6 +92,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -218,10 +225,10 @@ $(document).ready(function () {
 
 
 <p> </p>
-<div id="graduate-student-at-columbia-university-in-the-city-of-new-york" class="section level3">
-<h3>Graduate Student at Columbia University in the City of New York</h3>
-<div id="master-of-science-biostatistics" class="section level4">
-<h4>Master of Science, Biostatistics</h4>
+<div id="master-of-science-biostatistics" class="section level3">
+<h3>Master of Science, Biostatistics</h3>
+<div id="columbia-university-in-the-city-of-new-york" class="section level4">
+<h4>Columbia University in the City of New York</h4>
 <p><img src="images/Capture_1.jpg" style="width:80%"></p>
 <p> </p>
 </div>
@@ -234,8 +241,8 @@ $(document).ready(function () {
 <div id="new-york-ny-10032" class="section level4">
 <h4>New York, NY 10032</h4>
 </div>
-<div id="email-kma2162columbia.edu" class="section level4">
-<h4>Email: <a href="mailto:kma2162@columbia.edu">kma2162@columbia.edu</a></h4>
+<div id="email-kaddabbogmail.com" class="section level4">
+<h4>Email: <a href="mailto:kaddabbo@gmail.com">kaddabbo@gmail.com</a></h4>
 </div>
 <div id="phone-908-655---6722" class="section level4">
 <h4>Phone: (908) 655 - 6722</h4>

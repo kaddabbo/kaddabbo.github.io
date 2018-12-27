@@ -4,9 +4,10 @@ title: "Kathryn Addabbo"
 
 &nbsp;
 
-### Graduate Student at Columbia University in the City of New York
+### Master of Science, Biostatistics
 
-####Working towards Master of Science, Biostatistics
+#### Columbia University in the City of New York
+
 
 <img src="images/Capture_1.jpg" style="width:80%">
 
@@ -15,5 +16,5 @@ title: "Kathryn Addabbo"
 ###Contact Information
 ####Kathryn Addabbo
 ####New York, NY 10032
-####Email: kma2162@columbia.edu
+####Email: kaddabbo@gmail.com
 ####Phone: (908) 655 - 6722
