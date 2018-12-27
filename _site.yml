@@ -7,6 +7,8 @@ navbar:
       href: experience.html
     - text: "Education"
       href: education.html
+    - text: "Projects"
+      href: projects.html
     - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/kathrynaddabbo/
     - icon: fa-envelope fa-lg
