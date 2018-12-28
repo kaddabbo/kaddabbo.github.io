@@ -13,3 +13,5 @@ title: "Projects"
 &nbsp;
 
 #US Twitter
+
+A group of five students were assembled to display skills learned in the program's first semester Data Science I course. Tweets were gathered across a 48 hour period from Twitter users in the United States. Sentiment analysis was completed and various visualizations were built and evaluated. The website hosting the results of the group's exploratory analysis can be found [here](https://k-maciejewski.github.io/p8105_final_website/index.html), in addition to the compiled report viewed [here](xxx).
