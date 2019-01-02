@@ -8,13 +8,13 @@ navbar:
     - text: "Education"
       href: education.html
     - text: "Projects"
-      sublinks:
-      - title: Twitter
-        url: /twitter/
-      - title: Airbnb
-        url: /airbnb/
-      - title: Healthfirst
-        url: /healthfirst/
+      menu:
+          - text: "Twitter"
+            href: twitter.html
+          - text: "Airbnb"
+            href: airbnb.html
+          - text: "Healthfirst"
+            href: healthfirst.html
     - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/kathrynaddabbo/
     - icon: fa-envelope fa-lg
