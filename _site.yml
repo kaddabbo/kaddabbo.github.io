@@ -11,6 +11,7 @@ navbar:
       menu:
           - text: "Twitter"
             href: twitter.html
+            url: /twitter/
           - text: "Airbnb"
             href: airbnb.html
           - text: "Healthfirst"
