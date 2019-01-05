@@ -9,7 +9,7 @@ title: "Experience"
 
 &nbsp;
 
-With my internship at Healthfirst I had the opportunity to run analyses investigating the effect distance played in preventable admissions (PQIs) in the Medicaid population with in-patient claims. This data was gathered with the help of Google Maps API in addition to Alteryx for coordinate difference measurements. 
+With my internship at Healthfirst I had the opportunity to run analyses investigating the effect distance played in preventable admissions (PQIs) in the Medicaid population with in-patient claims. This data was gathered with the help of Google Maps API in addition to Alteryx for coordinate difference measurements. I was fortunate enough to be able to use this data for my Master's Thesis at Columbia University.
 
 I was also fortunate enough to work within a group to complete a descriptive analysis of opioid abusers in the Medicaid population, using pharmacy data as well as claims.
 
