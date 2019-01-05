@@ -19,7 +19,7 @@ In-patient Medicaid claims from 2016 and 2017 were gathered and the number of pr
 
 &nbsp;
 
-New York City Airbnb listings were taken from Jeff Goldsmith's [Data Science I website](http://p8105.com/dataset_airbnb.html) and used to investigate what influences the price of a listing in addition to whether borough can be predicting using the available covariates. The full report containing the findings can be found [here](kaddabbo.github.io/airbnb_report.pdf)
+New York City Airbnb listings were taken from Jeff Goldsmith's [Data Science I website](http://p8105.com/dataset_airbnb.html) and used to investigate what influences the price of a listing in addition to whether borough can be predicting using the available covariates. The full report containing the findings can be found [here](https://kaddabbo.github.io/airbnb_report.pdf).
 
 &nbsp;
 
@@ -28,4 +28,4 @@ New York City Airbnb listings were taken from Jeff Goldsmith's [Data Science I w
 
 &nbsp;
 
-An aggregate of tweets across a 48 hour period from Twitter users exclusively in the United States were obtained from [followthehashtag.com](http://www.followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/). Sentiment analysis was completed and various visualizations were created and evaluated. The website hosting the results of the group's exploratory analysis can be found [here](https://k-maciejewski.github.io/p8105_final_website/index.html), in addition to the compiled report viewed [here](kaddabbo.github.io/twitter_report.html).
+An aggregate of tweets across a 48 hour period from Twitter users exclusively in the United States were obtained from [followthehashtag.com](http://www.followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/). Sentiment analysis was completed and various visualizations were created and evaluated. The website hosting the results of the group's exploratory analysis can be found [here](https://k-maciejewski.github.io/p8105_final_website/index.html), in addition to the compiled report viewed [here](https://kaddabbo.github.io/twitter_report.html).
