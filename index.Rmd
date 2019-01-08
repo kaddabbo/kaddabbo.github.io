@@ -6,5 +6,5 @@ title: "Kathryn Addabbo"
 ### Master of Science, Biostatistics
 #### Columbia University
 
-<img src="images/capture4.jpg" style="width:70%", align = "center">
+<img src="images/capture4.jpg" style="width:65%", align = "center">
   
