@@ -5,7 +5,7 @@ title: "Projects"
 &nbsp;
 
 ###  Healthfirst 
-#### November - December 2018
+#### June - December 2018
 
 In-patient Medicaid claims over two years were gathered and the number of preventable admissions (PQIs) per member was aggregated in an effort to investigate whether member distance from their primary care provider's office was a factor in the number of PQIs. Google Maps API was used to provide coordinates from addresses and distances were measured using Alteryx. This analysis was restricted to members living in the five boroughs of New York City and Long Island. Due to the nature of public transportation in the city, distances from the member's home to various modes of public transit were included. The conclusion was that although the member's distance to primary care provider's office was significant using both logistic regression and negative binomial general linear models, the effect size was negligibile. 
 
