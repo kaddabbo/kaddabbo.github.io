@@ -1,0 +1,42 @@
+---
+title: "Employment"
+---
+
+&nbsp;
+
+### Healthfirst
+#### Clinical Informatics & Analytics Intern, 2018
+
+&nbsp;
+
+With my internship at [Healthfirst](https://healthfirst.org/) I had the opportunity to investigate whether distance between the member's home address and their primary care provider's office played a role in the member's number of preventable admissions (PQIs) over two years. This analysis was conducted with the help of Google Maps API in addition to Alteryx for distance measurements in the Medicaid population. 
+
+I was fortunate enough to be able to use this data for my Master's Thesis at Columbia University.
+
+In addition to that project, I also worked within a group to complete descriptive analysis of opioid misusers/abusers in the Medicaid population using data from the pharmaceutical department in addition to multiple claim types, in addition to building scores indicating the member's likelihood of opioid misuse/abuse.  
+
+&nbsp;
+
+###Hunter James Kelly Research Institute
+####Research Assistant, 2015 - 2016
+
+&nbsp;
+
+The [Hunter James Kelly Research Institute](http://www.buffalo.edu/hunter-james-kelly-research-institute.html)) conducts research investigating myelin and its diseases. 
+
+As a Research Assistant, I collaborated on a 3-person research team and was tasked to work independently in a sterilized environment performing cell culture work. Completed immunohistochemistry staining then analyzing and presenting data to team members and the principal investigator, I was well known for my consistent work ethic and attention to detail.
+
+Neurology lab experience in cell culture work (specifically Schwann cell and dorsal root ganglia (DRG) co-culture), immunohistochemistry staining, Western Blots, DNA extraction and polymerase chain reactions. I also performed mouse sciatic nerve, rat embryo spinal cord and DRG dissection.
+
+&nbsp;
+
+###Celgene Corporation
+#### Global Regulatory CMC, Pharmaceutical Intern, 2013-2016
+
+&nbsp;
+
+[Celgene Corporation](https://www.celgene.com/) is an American biotechnology company that manufactures drug therapies for cancer and inflammatory disorders.
+
+During my time as an intern, I helped with the preparation of protocols and documents to support efforts in gaining FDA approval of New Drug Applications (NDAs) for various products. This included updating standard operating procedures (SOPs), quality overall summaries (QOSs), regulatory requirements documents and databases making them more understandable, efficient and applicable to current policies. 
+
+I have also audited and proofread confidential drug trial files and drafted change notices as well as modified, aligned and integrated new drug acquisition trial documents with Celgene's regulatory guidelines.

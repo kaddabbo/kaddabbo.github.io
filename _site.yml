@@ -5,8 +5,8 @@ navbar:
   right:
     - text: "Projects"
       href: projects.html
-    - text: "Experience"
-      href: experience.html
+    - text: "Employment"
+      href: employment.html
     - text: "Education"
       href: education.html
     - icon: fa-linkedin-square

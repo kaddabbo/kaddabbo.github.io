@@ -1,9 +1,10 @@
 ---
 title: "Kathryn Addabbo"
 ---
-
 &nbsp;
 
 ### Master of Science, Biostatistics
-#### Columbia University in the City of New York
-<img src="images/Capture_1.jpg" style="width:70%">
+#### Columbia University
+
+<img src="images/capture4.jpg" style="width:70%", align = "center">
+  
